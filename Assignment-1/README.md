@@ -1,3 +1,3 @@
 # web-page
 
-main2.html is the main webpage file.
+Created a static shopping web page.  main2.html is the main webpage file.
