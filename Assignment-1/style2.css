@@ -1,0 +1,45 @@
+
+*{
+padding:0;
+margin:0;
+text-decoration:none;
+list-style:none;
+box-sizing:border-box;
+}
+body{
+font-family:montserrat;
+}
+nav{
+background:lightblue;
+height:80px;
+width:100%;
+}
+nav ul{
+float:right;
+margin-right:20px;
+}
+nav ul li
+{
+display:inline-block;
+}
+
+#nav1{
+padding:0;
+background:white;
+height:80px;
+width:100%;
+}
+
+.frame2{
+	width:100%;
+	background:lightblue;
+	height:80px;
+}
+ul{
+	list-style:none;
+	padding:0;
+	margin:0;
+	position:absolute;
+	
+	
+
